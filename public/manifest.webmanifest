@@ -1,0 +1,20 @@
+{
+  "name": "Konektado IT Solutions",
+  "short_name": "Konektado",
+  "description": "Book appointments, track requests and message Konektado IT Solutions.",
+  "start_url": "/dashboard",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07090d",
+  "theme_color": "#07090d",
+  "icons": [
+    {"src": "/images/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "/images/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "/images/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ],
+  "shortcuts": [
+    {"name": "Book appointment", "url": "/my/appointments/create"},
+    {"name": "Notifications", "url": "/notifications"}
+  ]
+}
