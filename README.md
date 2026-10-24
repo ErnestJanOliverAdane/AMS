@@ -1,4 +1,4 @@
-# Konektado IT Solutions — Multi-Auth System
+# Appointment Management System — Multi-Auth System
 
 A web-based authentication system developed using Laravel. The application provides a centralized sign-in page for Super Admins, Admins, and standard Users, along with a user registration page.
 
@@ -6,13 +6,13 @@ A web-based authentication system developed using Laravel. The application provi
 
 ### Sign In Page
 
-![Konektado IT Solutions Sign In Page](screenshots/login.png)
+![Appointment Management System Sign In Page](screenshots/login.png)
 
 The sign-in page allows registered Super Admins, Admins, and Users to access the system using their email address and password.
 
 ### Create Account Page
 
-![Konektado IT Solutions Create Account Page](screenshots/register.png)
+![Appointment Management System Create Account Page](screenshots/register.png)
 
 The registration page allows new users to create an account. Newly registered accounts are assigned the standard User role by default.
 
