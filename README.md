@@ -6,8 +6,7 @@ A web-based authentication system developed using Laravel. The application provi
 
 ### Sign In Page
 
-![Konektado IT Solutions Sign In Page](screenshots/login.png)![Uploading Screenshot 2026-10-24 011110.png…]()
-
+![Konektado IT Solutions Sign In Page](screenshots/login.png)
 
 The sign-in page allows registered Super Admins, Admins, and Users to access the system using their email address and password.
 
